@@ -1,4 +1,4 @@
-### Hi there 👋
+### 신입 개발자 김한휘입니다!
 
 <!--
 **KimHanWhee/KimHanWhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
