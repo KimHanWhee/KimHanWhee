@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:48cae4,100:00b4d8&height=120&section=header&text=KimHanWhee%20·%20Backend%20Developer&fontSize=28&fontColor=fff&animation=fadeIn)
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=KimHanWhee;Backend+Developer;Java+%2B+Spring+Boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&width=435&lines=KimHanWhee;Backend+Developer;Java+%2B+Spring+Boot)](https://git.io/typing-svg)
 
 ---
 
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 <!-- ![snake](https://raw.githubusercontent.com/KimHanWhee/KimHanWhee/output/github-contribution-grid-snake-dark.svg) -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:48cae4&height=80&section=footer)
