@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ### 🚧 Currently Working On
 
-[![CHARYEOT](https://github-readme-stats.vercel.app/api/pin/?username=KimHanWhee&repo=CHARYEOT&theme=radical)](https://github.com/KimHanWhee/CHARYEOT)
+**[CHARYEOT. (차렷.)](https://github.com/KimHanWhee/CHARYEOT)**  
+게임 패배의 범인 찾기 사이트.
 
 ---
 
