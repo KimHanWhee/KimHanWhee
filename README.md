@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=KimHanWhee%20·%20Backend%20Developer&fontSize=28&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api)
 
-## KimHanWhee - Backend Developer  👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=KimHanWhee;Backend+Developer;Java+%2B+Spring+Boot)](https://git.io/typing-svg)
 
 ---
 
@@ -39,12 +39,17 @@ Here are some ideas to get you started:
 
 ### 📎 Links
 
-[![Blog](https://img.shields.io/badge/Tech_Blog-000?style=flat&logo=tistory)](https://kimhanwhee.github.io/)
+<a href="https://kimhanwhee.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/blog-card-dark.svg">
+    <img src="./assets/blog-card-light.svg" alt="Whee's Log" />
+  </picture>
+</a>
 
-</details>
 
 ---
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=KimHanWhee&theme=react-dark)
 
-![snake](https://raw.githubusercontent.com/KimHanWhee/KimHanWhee/output/github-contribution-grid-snake-dark.svg)
+<!-- ![snake](https://raw.githubusercontent.com/KimHanWhee/KimHanWhee/output/github-contribution-grid-snake-dark.svg) -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
