@@ -2,7 +2,7 @@
   <rect width="680" height="160" rx="12" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
   <rect x="0" width="8" height="160" rx="4" fill="#7F77DD"/>
   <rect x="24" y="28" width="44" height="44" rx="10" fill="#EEEDFE"/>
-  <text x="46" y="56" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" fill="#534AB7">W</text>
+  <text x="46" y="56" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" fill="#534AB7">WL</text>
   <text x="84" y="48" font-family="sans-serif" font-size="15" font-weight="600" fill="#1a1a1a">Whee's Log.</text>
   <text x="84" y="66" font-family="sans-serif" font-size="12" fill="#888888">kimhanwhee.github.io</text>
   <line x1="24" y1="86" x2="656" y2="86" stroke="#f0f0f0" stroke-width="1"/>
