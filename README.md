@@ -26,13 +26,14 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
+<!--
 ---
 
 ### 🚧 Currently Working On
 
 **[CHARYEOT. (차렷.)](https://github.com/KimHanWhee/CHARYEOT)**  
 게임 패배의 범인 찾기 사이트.
+-->
 
 ---
 
