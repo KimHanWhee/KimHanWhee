@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 ---
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=KimHanWhee&theme=react-dark)
+<!--![graph](https://github-readme-activity-graph.vercel.app/graph?username=KimHanWhee&theme=react-dark)-->
 
 <!-- ![snake](https://raw.githubusercontent.com/KimHanWhee/KimHanWhee/output/github-contribution-grid-snake-dark.svg) -->
 
